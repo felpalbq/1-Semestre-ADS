@@ -1,75 +1,60 @@
-# 💻 Repositório de Estudos – Análise e Desenvolvimento de Sistemas (ADS)
+# 📂 Branch: semestre-1 – Python 1º Semestre
 
-Este repositório tem como objetivo organizar, documentar e mostrar minha trajetória de aprendizado ao longo do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **UniCV**. Desde o 1º semestre, armazeno **práticas**, **atividades acadêmicas** e **mini projetos** desenvolvidos com o foco principal na **lógica de programação**, **estruturas de dados** e **linguagem Python**.
+Esta branch contém o conteúdo do **1º semestre** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **UniCV**, com foco na **introdução à programação** utilizando **Python**.
 
----
-
-## 🎯 Finalidade do Repositório
-
-- **Portfólio profissional**: Expor minha evolução acadêmica e habilidades adquiridas durante o curso.
-- **Acompanhamento do aprendizado contínuo**: Registrar todas as práticas realizadas, o conhecimento adquirido e os projetos realizados ao longo da graduação.
-- **Compartilhar com a comunidade**: Facilitar o compartilhamento com **recrutadores**, **professores**, **colegas de curso** e **comunidade tech**.
-- **Documentação das atividades acadêmicas**: Armazenar as atividades realizadas de acordo com as unidades curriculares e mostrar o meu progresso.
+Aqui estão armazenados os **exercícios práticos**, **atividades acadêmicas** e **mini projetos** desenvolvidos durante o semestre, abordando os conceitos fundamentais da programação, como **tipos de dados**, **estruturas de controle** e **laços de repetição**.
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## ✅ Conteúdos abordados no 1º semestre
 
-O repositório está organizado em **branches** específicas para cada semestre e com diretórios bem definidos:
+No **1º semestre**, foram abordados os seguintes tópicos principais:
 
-### 🔹 `praticas-python`
-Esta branch é voltada para **exercícios práticos de programação** focados no aprendizado da linguagem Python.
-
-Conteúdos abordados:
-- Tipos de dados
-- Operações aritméticas e lógicas
-- Estruturas condicionais
-- Laços de repetição
-- Listas, strings e manipulação de dados
-- Funções (quando abordado)
+- **Introdução à programação e Python**: Entendimento dos conceitos básicos e sintaxe de Python.
+- **Operações e tipos de dados**: `int`, `float`, `str`, `bool`, operadores aritméticos e lógicos.
+- **Estruturas de controle**: `if`, `else`, `elif` para condições, e `for` para laços de repetição.
+- **Laços e controle de fluxo**: Uso de `range()` para iteração e contadores.
+- **Listas e manipulação de dados**: Como criar e manipular listas e tuplas.
+- **Contadores e acumuladores**: Uso para somar e contar elementos durante loops.
 
 ---
 
-### 🔹 `atividades-python`
-Aqui estão **as atividades curriculares do curso**. Cada atividade está vinculada a um conteúdo específico, conforme o planejado pelas unidades curriculares de ADS. São tarefas obrigatórias que demonstram minha **evolução acadêmica**.
+## 🗂️ Estrutura da Branch
 
----
+A branch **`semestre-1`** está organizada da seguinte forma:
 
-### 🔹 `projetos-python`
-Esta branch contém **mini projetos autorais**, desenvolvidos de forma aplicada, para praticar e reforçar os conceitos estudados.
+### 🔹 **`praticas/`**
+Contém os **exercícios práticos** realizados durante o 1º semestre, com foco na **fixação de conceitos básicos** de Python e lógica de programação.
 
-Exemplos de projetos:
-- **Simulador de caixa eletrônico**: Controle de saldo, depósitos e saques com lógica simples de programação.
-- **Calculadora de orçamento**: Projeto para simular uma calculadora de gastos pessoais.
-- **Conversor de unidades**: Projetos focados em conversões de unidades de medida.
+### 🔹 **`atividades/`**
+Armazena as **atividades curriculares** realizadas de acordo com as unidades do curso. Estas atividades abordam temas e problemas de programação aplicados ao conteúdo do semestre.
 
-Esses projetos buscam demonstrar minha capacidade de aplicar os conceitos de programação de forma prática.
+### 🔹 **`projetos/`**
+Aqui estão os **mini projetos autorais** desenvolvidos ao longo do semestre, onde conceitos de programação são aplicados de forma mais prática e interativa.
 
 ---
 
 ## 📌 Observações Importantes
 
-- **Repositório atualizado continuamente**: Este repositório será incrementado conforme o curso avança, com novos projetos, exercícios e atividades.
-- **Boas práticas**: Todos os códigos seguem boas práticas de **identação**, **comentários explicativos** e **organização**.
-- **Branches por semestre**: A cada semestre, uma nova branch será criada, contendo as práticas e projetos do semestre correspondente.
+- A estrutura da branch **`semestre-1`** foi criada para organizar os **exercícios práticos**, **atividades e projetos** realizados no primeiro semestre.
+- Cada exercício e projeto está documentado com **comentários explicativos**, e segue boas práticas de **identação** e **organização** de código.
+- O conteúdo será **atualizado conforme o curso avança**, com a adição de novos exercícios, atividades e projetos em **novas branches**.
 
 ---
 
 ## 📫 Contato
 
-Caso queira entrar em contato, discutir algum projeto ou colaborar em algo, aqui estão meus dados:
-
 **Felipe Silva Souza Albuquerque**  
 Email: [felpsszalbq@gmail.com](mailto:felpsszalbq@gmail.com)  
-GitHub: [github.com/seuusuario](https://github.com/felpalbq) 
-
+GitHub: [github.com/felpalbq](https://github.com/felpalbq)
 
 ---
 
 ## 🏁 Status
 
-📚 Em andamento — Iniciando com o **1º semestre do curso de ADS**  
-🔄 Repositório em constante evolução — novos conteúdos e projetos serão adicionados conforme os semestres avançam.
+📚 **Em andamento** — Iniciando o estudo do **1º semestre do curso de ADS**  
+🔄 **Repositório em constante evolução** — A cada semestre, uma nova branch será criada, contendo os conteúdos do semestre correspondente.
 
 ---
+
 
