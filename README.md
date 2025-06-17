@@ -1,78 +1,75 @@
 # 💻 Repositório de Estudos – Análise e Desenvolvimento de Sistemas (ADS)
 
-Este repositório foi criado com o objetivo de organizar e documentar minha trajetória de aprendizado ao longo do curso de **Análise e Desenvolvimento de Sistemas (ADS)** pela **UniCV**, iniciando pelo 1º semestre.
-
-Aqui armazeno **práticas**, **atividades acadêmicas** e **mini projetos** desenvolvidos com foco no aperfeiçoamento da lógica de programação e domínio da linguagem **Python**, que é a base inicial do curso.
+Este repositório tem como objetivo organizar, documentar e mostrar minha trajetória de aprendizado ao longo do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **UniCV**. Desde o 1º semestre, armazeno **práticas**, **atividades acadêmicas** e **mini projetos** desenvolvidos com o foco principal na **lógica de programação**, **estruturas de dados** e **linguagem Python**.
 
 ---
 
-## 🎯 Finalidade
+## 🎯 Finalidade do Repositório
 
-- Servir como **portfólio pessoal** e profissional.
-- Demonstrar meu **progresso contínuo** e dedicação nos estudos.
-- Disponibilizar meu código de forma clara e organizada para **recrutadores**, **colegas de curso** e **comunidade tech**.
-- Manter um histórico do meu aprendizado, projetos e exercícios práticos.
+- **Portfólio profissional**: Expor minha evolução acadêmica e habilidades adquiridas durante o curso.
+- **Acompanhamento do aprendizado contínuo**: Registrar todas as práticas realizadas, o conhecimento adquirido e os projetos realizados ao longo da graduação.
+- **Compartilhar com a comunidade**: Facilitar o compartilhamento com **recrutadores**, **professores**, **colegas de curso** e **comunidade tech**.
+- **Documentação das atividades acadêmicas**: Armazenar as atividades realizadas de acordo com as unidades curriculares e mostrar o meu progresso.
 
 ---
 
 ## 🗂️ Estrutura do Repositório
 
-O repositório está organizado em **três branches principais**, cada uma com uma função específica:
+O repositório está organizado em **branches** específicas para cada semestre e com diretórios bem definidos:
 
 ### 🔹 `praticas-python`
-Contém exercícios e códigos simples focados na **prática dos fundamentos da linguagem Python**, como:
-- Variáveis e tipos de dados
-- Operadores lógicos e aritméticos
-- Entrada e saída de dados
-- Condicionais (`if`, `else`, `elif`)
-- Laços com `for`
-- Estruturação e identação de código
+Esta branch é voltada para **exercícios práticos de programação** focados no aprendizado da linguagem Python.
 
-> Ideal para revisar conceitos e reforçar o raciocínio lógico.
+Conteúdos abordados:
+- Tipos de dados
+- Operações aritméticas e lógicas
+- Estruturas condicionais
+- Laços de repetição
+- Listas, strings e manipulação de dados
+- Funções (quando abordado)
 
 ---
 
 ### 🔹 `atividades-python`
-Contém as **atividades avaliativas do curso de ADS pela UniCV**, seguindo as instruções e critérios das unidades curriculares.
-
-> Este espaço registra meu desempenho acadêmico e cumprimento das tarefas obrigatórias ao longo da formação.
+Aqui estão **as atividades curriculares do curso**. Cada atividade está vinculada a um conteúdo específico, conforme o planejado pelas unidades curriculares de ADS. São tarefas obrigatórias que demonstram minha **evolução acadêmica**.
 
 ---
 
 ### 🔹 `projetos-python`
-Esta branch é dedicada aos **mini projetos autorais**, criados com o intuito de **praticar de forma aplicada** os conceitos estudados, indo além das atividades curriculares.
+Esta branch contém **mini projetos autorais**, desenvolvidos de forma aplicada, para praticar e reforçar os conceitos estudados.
 
-Exemplos:
-- Simulador de caixa eletrônico
-- Calculadora de orçamento
-- Conversores de unidades, entre outros
+Exemplos de projetos:
+- **Simulador de caixa eletrônico**: Controle de saldo, depósitos e saques com lógica simples de programação.
+- **Calculadora de orçamento**: Projeto para simular uma calculadora de gastos pessoais.
+- **Conversor de unidades**: Projetos focados em conversões de unidades de medida.
 
-> Projetos simples, mas que demonstram evolução no raciocínio computacional e boas práticas de codificação.
+Esses projetos buscam demonstrar minha capacidade de aplicar os conceitos de programação de forma prática.
 
 ---
 
-## 📌 Observações
+## 📌 Observações Importantes
 
-- Os projetos e atividades evoluem conforme o andamento do curso.
-- Todos os códigos seguem **boas práticas de identação, comentários e organização de arquivos**.
-- Este repositório será atualizado continuamente e novos projetos serão adicionados conforme os novos conteúdos forem estudados.
+- **Repositório atualizado continuamente**: Este repositório será incrementado conforme o curso avança, com novos projetos, exercícios e atividades.
+- **Boas práticas**: Todos os códigos seguem boas práticas de **identação**, **comentários explicativos** e **organização**.
+- **Branches por semestre**: A cada semestre, uma nova branch será criada, contendo as práticas e projetos do semestre correspondente.
 
 ---
 
 ## 📫 Contato
 
-Caso deseje conversar sobre os projetos, oportunidades ou colaboração:
+Caso queira entrar em contato, discutir algum projeto ou colaborar em algo, aqui estão meus dados:
 
-- **Nome:** Felipe Souza  
-- **E-mail:** [seu.email@email.com] *(atualize aqui)*  
-- **LinkedIn:** [linkedin.com/in/seuusuario] *(opcional)*  
-- **GitHub:** [github.com/seuusuario] *(opcional)*  
+**Felipe Silva Souza Albuquerque**  
+Email: [felpsszalbq@gmail.com](mailto:felpsszalbq@gmail.com)  
+GitHub: [github.com/seuusuario](https://github.com/felpalbq) 
+
 
 ---
 
 ## 🏁 Status
 
-📚 Em andamento — iniciando pelo **1º semestre do curso de ADS**  
-🔄 Repositório em constante evolução.
+📚 Em andamento — Iniciando com o **1º semestre do curso de ADS**  
+🔄 Repositório em constante evolução — novos conteúdos e projetos serão adicionados conforme os semestres avançam.
 
 ---
+
